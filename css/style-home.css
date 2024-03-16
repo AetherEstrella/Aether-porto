@@ -1,0 +1,101 @@
+.kontainer {
+    max-height: 1650vh;
+    margin: 0 auto;
+    background-image: url(xagon.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100px;
+    
+}
+
+.offcanvas-body {
+    font-size: 20px;
+}
+
+.navbar-first {
+    font-size: 26px;
+    padding-right:px;
+    color: #ffff;
+    margin-top: 8px;
+}
+
+.navbar-last {
+    font-family: sans-serif;
+    font-family: "Roboto";
+    font-size: 26px;
+    color: crimson;
+    padding-left: 4px;
+    margin-top: 7px;
+    margin-left: px;
+    margin-right: 1px;
+    column-rule-color: #000000;
+
+}
+
+.btn-nav {
+    margin-top: px;
+    color: #ffff;
+    text-decoration: none;
+}
+
+.navbar-nav>li>a {
+    color: #ffff;
+}
+
+.text-body-secondary {
+    font-size: 10px;
+}
+
+body {
+    min-height: 200000px;
+}
+
+.dropdown-menu>li {
+    margin-left: 1px;
+    color: #ffffff;
+}
+
+.navbar {
+    box-shadow: 0 7px 15px 0 rgba(0, 0, 0, 0.75);
+}
+
+
+
+.jumbotron {
+    background-color: #2a0c36;
+    color: #ffffff;
+}
+
+#about {
+    background-color: #000000;
+}
+
+.col-about {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: p;
+    border-bottom: 1.1px solid #3f194e;
+    border-top: p;
+}
+
+.col-md-8 {
+    margin: 20px;
+}
+
+#Projects {
+    background-color: #2a0c36;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.container-s {
+    font-size: 80px;
+    color: #ffffff;
+}
+
